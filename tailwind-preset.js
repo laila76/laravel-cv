@@ -67,6 +67,7 @@ module.exports = {
 		// require("@tailwindcss/typography"),
 		// require("flowbite/plugin"),
 		require("daisyui"),
+        require('@tailwindcss/forms'),
 	],
 	// daisyUI config (optional)
 	// daisyui: {
